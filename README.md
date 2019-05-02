@@ -1,7 +1,9 @@
 
 
-# Simple & fast spin up for monorepo single developer WordPress Dev using Docker for local development
-Has that MAMP feel on tradtional LAMP stack.
+# Simple fast spin up for single WordPress Local Development Enviorment. 
+
+Uses Docker 
+Classic MAMP feel.
 Easy to intergrate web hooks or code deploy to AWS or DO by making deployment branch and rewriting URLs and wp-config file exculsive to deployment branch.
 
 SSH in to Docker shell to install WP-CLI in need be also can use locally installed composer and WP-CLI instead
